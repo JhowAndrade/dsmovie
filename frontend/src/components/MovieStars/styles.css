@@ -1,0 +1,10 @@
+. dsmovie-stars-container {
+    largura :  130 px ;
+   exibição : flexível;
+   justificar-conteúdo : espaço entre;
+}
+
+. dsmovie-stars-container  svg {
+    largura :  22 px ;
+   altura : automático;
+}
